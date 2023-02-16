@@ -1,6 +1,6 @@
 const Category = {
     INCOME: "INCOME",
-    EXPENSE: "Expense"
+    EXPENSE: "EXPENSE"
 };
 
 module.exports = Category;
